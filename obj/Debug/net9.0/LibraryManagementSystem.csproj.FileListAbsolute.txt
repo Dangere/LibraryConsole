@@ -38,3 +38,4 @@ D:\DotNET projects\Console Apps\LibraryManagementSystem\obj\Debug\net9.0\Library
 D:\DotNET projects\Console Apps\LibraryManagementSystem\obj\Debug\net9.0\LibraryManagementSystem.genruntimeconfig.cache
 D:\DotNET projects\Console Apps\LibraryManagementSystem\obj\Debug\net9.0\ref\LibraryManagementSystem.dll
 D:\DotNET projects\Console Apps\LibraryManagementSystem\bin\Debug\net9.0\ConsoleTables.dll
+D:\DotNET projects\Console Apps\LibraryManagementSystem\obj\Debug\net9.0\LibraryManagementSystem.sourcelink.json

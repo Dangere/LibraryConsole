@@ -16,7 +16,7 @@ class Program
 {
     static void Main()
     {
-        string ConnectionString = "";
+        string ConnectionString = "Server=localhost;Database=library;Uid=root;Pwd=SQL-192837465;";
         Dapper.DefaultTypeMap.MatchNamesWithUnderscores = true;
         //Initialize the database schema, run when setting up the project for the first time
         // DatabaseInitializer.Initialize(ConnectionString);
