@@ -1,5 +1,5 @@
 # ignore ALL sql files
-*.sql
+/**.sql
 
 # ignore directory named queries
-*queries/
+/queries/
