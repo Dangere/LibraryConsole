@@ -76,5 +76,12 @@ dotnet run
 ![Register Screen](Screenshots/RegisterScreen.PNG)
 ![Inventory Screen](Screenshots/Inventory.PNG)
 ![Inspecting Inventory Book](Screenshots/ViewInventoryBook.PNG)
+![Borrowed Books List](Screenshots/BorrowedBooksList.PNG)
+![Inspecting Borrowed Book](Screenshots/ViewingBorrowedBook.PNG)
 
+## Admin Interface Screenshots
+![Admin Users Management Screen](Screenshots/admin_UsersManagementScreen.PNG)
+![Admin Balance History Screen](Screenshots/admin_BalanceHistory.PNG)
+![Admin Adding Books Screen](Screenshots/admin_AddingBooksPNG.PNG)
+![Admin Editing Books Screen](Screenshots/admin_EditingBooksPNG.PNG)
 
