@@ -72,16 +72,24 @@ dotnet run
 
 
 ## User Interface Screenshots
-![Main Menu](Screenshots/MainMenu.PNG)
-![Register Screen](Screenshots/RegisterScreen.PNG)
-![Inventory Screen](Screenshots/Inventory.PNG)
-![Inspecting Inventory Book](Screenshots/ViewInventoryBook.PNG)
-![Borrowed Books List](Screenshots/BorrowedBooksList.PNG)
-![Inspecting Borrowed Book](Screenshots/ViewingBorrowedBook.PNG)
+<img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/MainMenu.PNG" width="200" />
+<img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/RegisterScreen.PNG" width="200" />
+<img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/Inventory.PNG" width="200" />
+<img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/ViewInventoryBook.PNG" width="200" />
+<img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/BorrowedBooksList.PNG" width="200" />
+<img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/ViewingBorrowedBook.PNG" width="200" />
+
+<!-- ![Main Menu](Screenshots/MainMenu.PNG | width=100)
+![Register Screen](Screenshots/RegisterScreen.PNG | width=100)
+![Inventory Screen](Screenshots/Inventory.PNG | width=100)
+![Inspecting Inventory Book](Screenshots/ViewInventoryBook.PNG | width=100)
+![Borrowed Books List](Screenshots/BorrowedBooksList.PNG | width=100)
+![Inspecting Borrowed Book](Screenshots/ViewingBorrowedBook.PNG | width=100) -->
 
 ## Admin Interface Screenshots
-![Admin Users Management Screen](Screenshots/admin_UsersManagementScreen.PNG)
-![Admin Balance History Screen](Screenshots/admin_BalanceHistory.PNG)
-![Admin Adding Books Screen](Screenshots/admin_AddingBooksPNG.PNG)
-![Admin Editing Books Screen](Screenshots/admin_EditingBooksPNG.PNG)
+<img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/admin_UsersManagementScreen.PNG" width="200" />
+<img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/admin_BalanceHistory.PNG" width="200" />
+<img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/admin_AddingBooks.PNG" width="200" />
+<img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/admin_EditingBooks.PNG" width="200" />
+
 
