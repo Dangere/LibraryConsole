@@ -69,3 +69,12 @@ dotnet run
 ### Security Notes
 - Password Security: User passwords are not stored in plain text. The app uses salting and hashing to secure user credentials.
 - Connection String: For production, consider using environment variables or secure secret management tools to store sensitive information rather than hard-coding them.
+
+
+## User Interface Screenshots
+[Main Menu](screenshots/MainMenu.png)
+[Register Screen](screenshots/RegisterScreen.png)
+[Inventory Screen](screenshots/inventory.png)
+[Inspecting Inventory Book](screenshots/ViewInventoryBook.png)
+
+
