@@ -72,9 +72,9 @@ dotnet run
 
 
 ## User Interface Screenshots
-[Main Menu](screenshots/MainMenu.png)
-[Register Screen](screenshots/RegisterScreen.png)
-[Inventory Screen](screenshots/inventory.png)
-[Inspecting Inventory Book](screenshots/ViewInventoryBook.png)
+![Main Menu](Screenshots/MainMenu.PNG)
+![Register Screen](Screenshots/RegisterScreen.png)
+![Inventory Screen](Screenshots/Inventory.png)
+![Inspecting Inventory Book](Screenshots/ViewInventoryBook.png)
 
 
