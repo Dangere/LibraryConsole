@@ -74,7 +74,7 @@ dotnet run
 ## User Interface Screenshots
 <img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/MainMenu.PNG" width="300" />
 <img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/RegisterScreen.PNG" width="300" />
-<img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/Inventory.PNG" width="300" />
+<img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/Inventory.PNG" width="500" />
 <img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/ViewInventoryBook.PNG" width="300" />
 <img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/BorrowedBooksList.PNG" width="300" />
 <img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/ViewingBorrowedBook.PNG" width="300" />
@@ -87,8 +87,8 @@ dotnet run
 ![Inspecting Borrowed Book](Screenshots/ViewingBorrowedBook.PNG | width=100) -->
 
 ## Admin Interface Screenshots
-<img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/admin_UsersManagementScreen.PNG" width="300" />
-<img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/admin_BalanceHistory.PNG" width="300" />
+<img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/admin_UsersManagementScreen.PNG" width="500" />
+<img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/admin_BalanceHistory.PNG" width="500" />
 <img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/admin_AddingBooks.PNG" width="300" />
 <img src="https://github.com/Dangere/library-console-app/blob/main/Screenshots/admin_EditingBooks.PNG" width="300" />
 
